@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Bévnoty (Bivo)
 
-<!--
-**Bivo2004/Bivo2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Developer** and **Software Engineer** based in **Alexandria, Egypt** 🇪🇬. I specialize in building predictive models, computer vision applications, and open-source Python utilities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* **[Lumen-Py](https://pypi.org/project/Lumen-Py/):** A specialized Python utility package (Available on PyPI).
+* **Predictive Maintenance Lstm:** Predictive Maintenance Model for Turbofan Jet Engines (RUL) using LSTM, achieving RMSE of 14.97 cycles.
+* **[Multi Task Audio Ann](https://huggingface.co/spaces/Bevnoty/Multi-Task-Audio-Analyzer):** A Multi-Task Deep Learning model for simultaneous Genre and Emotion prediction.
+* **[AI Game Arena](https://aigamearena.netlify.app/):** A collection of game-based AI implementations including Connect 4 and Tic-Tac-Toe.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+- **AI/ML:** Deep Learning, Predictive Modeling, Computer Vision.
+- **Tools:** Git, Visual Studio 2022, GitHub Actions (CI/CD).
+
+---
+
+### 📊 GitHub Metrics
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bivo2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bivo2004&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bmbbg)
+
+- 🔭 I’m open for opportunities!
+- 💬 Ask me about: Machine Learning, Python packaging, or Game AI logic.
