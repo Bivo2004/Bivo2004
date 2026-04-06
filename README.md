@@ -27,9 +27,7 @@ I am an **AI Developer** and **Software Engineer** based in **Alexandria, Egypt*
 ---
 
 ### 📊 GitHub Metrics
-
-![Bivo's Stats](https://github-readme-stats.vercel.app/api?username=Bivo2004&show_icons=true&theme=radical&rank_icon=github)
-![Bivo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bivo2004&layout=compact&theme=radical)
+![](https://stats.justsong.xyz/api?username=Bivo2004&theme=radical)
 
 ---
 
