@@ -28,8 +28,8 @@ I am an **AI Developer** and **Software Engineer** based in **Alexandria, Egypt*
 
 ### 📊 GitHub Metrics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bivo2004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bivo2004&layout=compact&theme=radical)
+![Bivo's Stats](https://github-readme-stats.vercel.app/api?username=Bivo2004&show_icons=true&theme=radical&rank_icon=github)
+![Bivo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bivo2004&layout=compact&theme=radical)
 
 ---
 
