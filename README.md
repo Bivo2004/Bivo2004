@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bévnoty (Bivo)
+# 👋 Hi, I'm Bévnoty Mamdouh
 
 I am an **AI Developer** and **Software Engineer** based in **Alexandria, Egypt** 🇪🇬. I specialize in building predictive models, computer vision applications, and open-source Python utilities.
 
