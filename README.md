@@ -20,7 +20,6 @@ I am an **AI Engineer** and **Software Developer** based in **Alexandria, Egypt*
 - **[Organic Search Traffic Decay Research](https://github.com/Bivo2004):** Feature engineering and predictive modeling pipeline analyzing search telemetry decay *(FlyRank AI Research)*.
 - **Jet Engine RUL Predictive Maintenance:** Stacked `LSTM` architecture trained on NASA's C-MAPSS dataset to predict Remaining Useful Life of turbofan engines, achieving an **RMSE of 14.97 cycles**.
 - **[Multi-Task Audio Analyzer](https://huggingface.co/spaces/Bevnoty/Multi-Task-Audio-Analyzer):** Deep learning web application for simultaneous audio genre and emotion classification using sliding-window inference (`PyTorch`, `Librosa`, `Streamlit`).
-- **Alexandria Sentinel:** Coastal flood risk visualization platform leveraging `Google Earth Engine`, Sentinel-1/2 satellite imagery, and `Streamlit`.
 - **Pandas vs. Polars Benchmarking Suite:** Performance, execution speed, and memory consumption analysis on multi-gigabyte tabular datasets.
 
 ---
@@ -52,12 +51,6 @@ I am an **AI Engineer** and **Software Developer** based in **Alexandria, Egypt*
 - **Tabular ML & Data:** LightGBM, XGBoost, CatBoost, Optuna, Polars, NumPy, SHAP.
 - **Local AI & Deployment:** Ollama, ChromaDB, ONNX Runtime, Hugging Face Transformers.
 - **Systems & Networking:** Linux Administration, Docker, Self-Hosted Infrastructure, CI/CD.
-
----
-
-### 📈 Contribution Activity
-
-![Bivo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bivo2004&theme=radical&hide_border=true)
 
 ---
 
