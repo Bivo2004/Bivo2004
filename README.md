@@ -6,9 +6,9 @@ I am an **AI Engineer** and **Software Developer** based in **Alexandria, Egypt*
 
 ### 💼 Experience & Credentials
 
+- 🔬 **Machine Learning Intern @ FlyRank AI:** Engineered a Random Forest and `SelectKBest` feature pipeline on a 30,000-row telemetry dataset to predict organic search traffic decay. Achieving 0.92 Precision@50 on a 30,000-row telemetry dataset.
 - 🏢 **IT Infrastructure Intern @ NATCO (Mercedes-Benz Egypt):** Worked on enterprise workstation deployments, network rack management, Cisco/FortiGate infrastructure, and built an automated ML-powered S.M.A.R.T. drive failure predictor.
-- 🔬 **Machine Learning Intern @ FlyRank AI:** Engineered a Random Forest and `SelectKBest` feature pipeline on a 30,000-row telemetry dataset to predict organic search traffic decay.
-- 🌍 **AI & Data Science Trainee @ University of Tokyo (GCI World):** Participating in the Global Consumer Intelligence program hosted by the Matsuo-Iwasawa Lab.
+- 🌍 **AI & Data Science Trainee @ University of Tokyo (GCI World):** Participating in the Global Consumer Intelligence program hosted by the Matsuo-Iwasawa Lab. Top 5% in ML competition, Home Credit Default Risk modeling.
 - 🎓 **Professional Diploma in Industrial Applications of AI:** Earned from the Arab Academy for Science, Technology & Maritime Transport (**AASTMT**), alongside the **Huawei HCIA-AI V4.0** certification.
 
 ---
@@ -16,11 +16,11 @@ I am an **AI Engineer** and **Software Developer** based in **Alexandria, Egypt*
 ### 🚀 Featured Projects
 
 - **[Lumen-Py](https://pypi.org/project/lumen-py-bivo/):** An open-source CLI Socratic coding mentor published on PyPI (`PyTorch`, `CodeBERT`, `Ollama`, `Typer`, `Rich`).
-- **Drive Health Monitor & ML Failure Predictor:** Desktop telemetry utility utilizing an `ONNX` Random Forest model on S.M.A.R.T. logs to predict hard drive failures in real time with automated alerts.
-- **[Organic Search Traffic Decay Research](https://github.com/Bivo2004):** Feature engineering and predictive modeling pipeline analyzing search telemetry decay *(FlyRank AI Research)*.
-- **Jet Engine RUL Predictive Maintenance:** Stacked `LSTM` architecture trained on NASA's C-MAPSS dataset to predict Remaining Useful Life of turbofan engines, achieving an **RMSE of 14.97 cycles**.
+- **[Drive Health Monitor & ML Failure Predictor](https://github.com/Bivo2004/drive-health-monitor):** Desktop telemetry utility utilizing an `ONNX` Random Forest model on S.M.A.R.T. logs to predict hard drive failures in real time with automated alerts.
+- **[Organic Search Traffic Decay Research](https://github.com/Bivo2004):** Feature engineering and predictive modeling pipeline analyzing search telemetry decay *[(FlyRank AI Research)](https://bivo2004.github.io/my-ml-internship/)*.
+- **[Jet Engine RUL Predictive Maintenance](https://github.com/Bivo2004/predictive-maintenance-lstm):** Stacked `LSTM` architecture trained on NASA's C-MAPSS dataset to predict Remaining Useful Life of turbofan engines, achieving an **RMSE of 14.97 cycles**.
 - **[Multi-Task Audio Analyzer](https://huggingface.co/spaces/Bevnoty/Multi-Task-Audio-Analyzer):** Deep learning web application for simultaneous audio genre and emotion classification using sliding-window inference (`PyTorch`, `Librosa`, `Streamlit`).
-- **Pandas vs. Polars Benchmarking Suite:** Performance, execution speed, and memory consumption analysis on multi-gigabyte tabular datasets.
+- **[Pandas vs. Polars Benchmarking Suite](https://github.com/Bivo2004/Pandas_VS_POLARS_-benchmark-):** Performance, execution speed, and memory consumption analysis on multi-gigabyte tabular datasets.
 
 ---
 
